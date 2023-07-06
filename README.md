@@ -10,8 +10,11 @@ Lemon-pie-maquetado
 Una de las principales tareas de un desarrollador front-end es estructurar interfaces a partir de un wireframe o una imagen. El desafío será reconocer las diferentes etiquetas que podrían conformar el maquetado y comenzar a estructurar un archivo hasta obtener
 un resultado visual similar a la referencia.
 
- ![](https://raw.githubusercontent.com/sgcm14/batman-maquetado/main/dise%C3%B1o/desktop.png)
-> Pantalla de **Figma**
+ ![](https://raw.githubusercontent.com/sgcm14/0523C02-lemon-pie-maquetado/main/img/lemon-pie-v1.png)
+> Pantalla de **Figma** versión 1
+
+ ![](https://raw.githubusercontent.com/sgcm14/0523C02-lemon-pie-maquetado/main/img/lemon-pie-v2.png)
+> Pantalla de **Figma** versión 2
 
 
 **Desafío:**
